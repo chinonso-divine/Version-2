@@ -1,0 +1,33 @@
+h1 {background-color: blue;
+color: brown;}
+
+
+
+header {
+    background-color: blue;
+    font-weight: 400;
+    padding: 20px;
+}
+.hero {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: lightblue;
+    padding: 40px 0;
+}
+.features {
+    background-color: brown;
+    gap:2px;
+    padding: 2rem 0;
+}
+.contact {
+    background-color: lightgray;
+    padding: 20px 0;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
